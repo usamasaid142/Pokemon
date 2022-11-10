@@ -1,3 +1,59 @@
 <resources>
     <string name="app_name">Pokemon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="todo">TODO</string>
+    <string name="login_msg">Welcome Doctor... Salamtak application is your gateway to a new world of comfort</string>
+    <string name="hint_number">01xx xxx xxxx</string>
+    <string name="incorrect_phone_number">Incorrect phone number</string>
+    <string name="don_t_have_an_account"> Don\'t have an account?</string>
+    <string name="for_support_call">For Support Call</string>
+    <string name="_17143">17143</string>
+    <string name="enter_clinic_phone">Enter Clinic phone</string>
+    <string name="signup_msg">Welcome, doctor.. To Complete Joining The Application, Please Complete The Profile To Help You Reach The Largest Number Of Patients</string>
+    <string name="signup">Sign up</string>
+    <string name="doctor_name">Full Name</string>
+    <string name="first">First</string>
+    <string name="middle">Middle</string>
+    <string name="last">Last</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="i_agree_to">I agree</string>
+    <string name="terms_conditions"><![CDATA[Terms & \nConditions]]></string>
+    <string name="must_approve_terms_conditions"><![CDATA[Must approve Terms & Conditions]]></string>
+    <string name="by_creating_your_account_you_agree_to_our">By Creating your Account you Agree to our</string>
+    <string name="now_you_will_receive_a_verification_code">Now,\nYou will receive a verification code.</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="verify_mobile_number">Verify Mobile Number</string>
+    <string name="code_sent_to">Code sent to</string>
+    <string name="resend_code_after">Resend Code After</string>
+    <string name="info">Info</string>
+    <string name="certificates">Certificates</string>
+    <string name="docs_required">You must select your documents </string>
+    <string name="logout"><u>Logout</u></string>
+    <string name="profile_info">Profile Information</string>
+    <string name="upload_your_pic">Upload your picture</string>
+    <string name="doctor_full_name_ar">Full Name (AR) *</string>
+    <string name="documents">Documents</string>
+    <string name="choose_date">Choose date</string>
+    <string name="specialization">Speciality</string>
+    <string name="sub_specialization">Sub Speciality</string>
+    <string name="national_id">National ID</string>
+    <string name="nationalid_required">National Id is required</string>
+    <string name="syndicate_id">Syndicate ID</string>
+    <string name="license_of_work_number">License of work number</string>
+    <string name="facebook_account">Facebook Link</string>
+    <string name="official_link">Website</string>
+    <string name="website_fb_page">Website</string>
+    <string name="Biography_en">Biography in English (120 characters left)</string>
+    <string name="Biography_en_max">250 characters max*</string>
+    <string name="Biography_ar">السيرة الذاتية باللغة العربية (120 حرف متبقي)</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm Password</string>
+
 </resources>
