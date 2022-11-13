@@ -55,5 +55,42 @@
     <string name="password">Password</string>
     <string name="enter_password">Enter password</string>
     <string name="confirm_password">Confirm Password</string>
+    <string name="next_certificates">Next: Certificates</string>
+    <string name="next_certificate">Next: Certificates</string>
+    <string name="speciality_required">You must select your specialization</string>
+    <string name="sub_speciality_required">You must select your sub-specialization</string>
+
+
+    <string name="area">Area</string>
+    <string name="patientprofile">Patient Profile</string>
+    <string name="patientmedicalstate">Patient Medical State</string>
+    <string name="select">Select</string>
+    <string name="selectname">Select Name</string>
+    <string name="next">Next</string>
+    <string name="photo_required">Photo Required</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_ar" translatable="false">الإسم الأول</string>
+    <string name="middle_name_ar" translatable="false">إسم الأب</string>
+    <string name="last_name_ar" translatable="false">إسم العائلة</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="full_name">Full Name</string>
+    <string name="nationality">Nationality</string>
+    <string name="nationality_required">You must select your nationality</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="birth_required2">Invalid age your Age must be greater than 21 years old</string>
+    <string name="gender">Gender</string>
+    <string name="gender_required">You must select your gender</string>
+    <string name="occupation">Occupation</string>
+    <string name="city">City</string>
+    <string name="seniority_required">You must select your seniority level</string>
+    <string name="street">Street</string>
+    <string name="building_number">Building Number</string>
+    <string name="floor_number">Floor Number</string>
+    <string name="apartment_number">Apartment Number</string>
+    <string name="emergency_contact">Emergency Contact</string>
+
 
 </resources>
